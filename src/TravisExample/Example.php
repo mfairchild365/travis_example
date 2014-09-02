@@ -10,6 +10,6 @@ class Example {
      */
     public function example()
     {
-        return true;
+        return false;
     }
 }
